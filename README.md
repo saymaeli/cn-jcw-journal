@@ -1,2 +1,14 @@
 # cn-jcw-journal
-HTML page archive and documentation
+
+页面归档与发布记录
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
